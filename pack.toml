@@ -1,0 +1,13 @@
+name = "MC: Plus Ultra"
+author = "ClashconD"
+version = "0.7.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "74a03311749895a6f5b1c502903f5c6e7369882bcc6d59529e49c0e1c25aaf26"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.230"
