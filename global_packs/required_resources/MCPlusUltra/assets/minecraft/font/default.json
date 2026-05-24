@@ -1,0 +1,79 @@
+{"providers":[
+		{
+			"type": "bitmap",
+			"file": "minecraft:icons/tab_sv.png",
+			"height": 120,
+			"ascent": 20,
+			"chars": [
+				"阿"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:icons/user.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"艾"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:icons/miembro.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"杰"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:icons/helper.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"比"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:icons/admin.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"屁"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:icons/clan1.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"维"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:icons/clan2.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"德"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:icons/clan3.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": [
+				"贼"
+			]
+		}
+]
+}
+
+
+
+
