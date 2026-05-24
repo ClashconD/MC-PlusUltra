@@ -1,0 +1,9 @@
+{
+    "entity.player.death": {
+        "replace": true,
+        "sounds": [ 
+			{"name": "death/sound", "pitch": 1, "volume": 1.0}			
+		],
+	"subtitle": "subtitles.entity.player.death"	 
+	}
+}

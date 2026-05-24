@@ -1,0 +1,12 @@
+{
+ "providers":
+   [
+	 {
+	   "type":"bitmap",
+	   "file":"deathfx:font/deathpopup.png",
+	   "ascent":230,
+	   "height":300,
+	   "chars":["\u4DE1"]
+	 }
+   ]
+}
